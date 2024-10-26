@@ -7,5 +7,8 @@ Requerimientos:
 -Flask
 -CLIPS
 
+SEGUNDA OPCIÓN-FRAMEWORK DE REGLAS SUSTITUYEBDO  CLIPS
+-Experta como framework para reglas y hechos.
+
 Crear entorno virtual para montar servidor 
 y ejecutar el proyecto.
